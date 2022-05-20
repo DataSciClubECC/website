@@ -1,4 +1,4 @@
-baseURL = 'https://DataSciClubECC.github.io'
+baseURL = 'https://datasciclubecc.github.io/website'
 languageCode = 'en-us'
 title = 'Data Science Club at El Camino College'
 theme = 'cactus'
