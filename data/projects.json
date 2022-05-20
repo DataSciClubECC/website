@@ -1,0 +1,14 @@
+{
+	"list": [
+		{
+			"name": "Workshop Resources",
+			"url": "https://github.com/DataSciClubECC/slides",
+			"desc": "Resources for each workshop like cheatsheets and slides"
+		},
+		{
+			"name": "Website",
+			"url": "https://github.com/DataSciClubECC/website",
+			"desc": "Source code for the website"
+		}
+	]
+}
